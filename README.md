@@ -38,7 +38,7 @@ let schawn = new CreateMan()
 schawn.createDay();
 ```
 <img src="https://komarev.com/ghpvc/?username=schawnrabbializm&label=Ziyaretçi%20Sayısı&color=552b75" alt="schawnrabbializm" /> <!-- schâwn abimden aldım. -->
-<img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/schawnrabbializm?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower"/></a> <!-- schâwn abimden aldım. -->
+<img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/schawnrabbializm?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower"/></a> 
 
 ## 🔧 Languages <!-- schâwn abimden aldım. -->
 - ![](https://img.shields.io/badge/Code-JavaScript-black?style=flat-square&logo=javascript&logoColor=brightgreen) <!-- schâwn abimden aldım. -->
