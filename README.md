@@ -14,7 +14,7 @@
 [![Discord Badge](https://img.shields.io/badge/Github%20-171515.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/schawnrabbializm)
 [![Discord Badge](https://img.shields.io/badge/İnstagram%20-171515.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white)](https://www.instagram.com/canervac/)
 
-![Discord](https://discord.c99.nl/widget/theme-5/585538770196103168.png)
+![Discord](https://discord.c99.nl/widget/theme-4/585538770196103168.png)
 
 <h3 align="left">🍒 GitHub Stats:</h3>
 <p align="left">
