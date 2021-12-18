@@ -26,3 +26,6 @@
 <p align="left">
    <img src="https://github-readme-stats.vercel.app/api?username=schawnrabbializm&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=schawnrabbializm&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" />
+   
+   ## 🏆 Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Wency&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
