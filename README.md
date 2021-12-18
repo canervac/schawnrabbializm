@@ -1,11 +1,11 @@
-<h2 align="center">null kimdir? <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
+<h2 align="center">schâwn kimdir? <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 
 
 - Ben Caner | schâwn diye tanıdığınız.
 - İnsanları sevmem sadece ihtiyacı oldukları zaman yanındadırlar.
 
 <h3>🔥 Havalı insanlar</h3>
-<img src="https://komarev.com/ghpvc/?username=This-null&label=Ziyaretçi%20Sayısı&color=552b75" alt="This-null" />
+<img src="https://komarev.com/ghpvc/?username=schawnrabbializm&label=Ziyaretçi%20Sayısı&color=552b75" alt="schawnrabbializm" />
 <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/This-null?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower"/></a>
 <h3>🌟 Sosyal medya</h3>
 
@@ -15,8 +15,6 @@
 [![Discord Badge](https://img.shields.io/badge/İnstagram%20-171515.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white)](https://www.instagram.com/canervac/)
 
 ![Discord](https://discord.c99.nl/widget/theme-2/585538770196103168.png)
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/585538770196103168?hideDiscrim=true)](https://discord.com/users/585538770196103168)
 
 <h3 align="left">🍒 GitHub Stats:</h3>
 <p align="left">
