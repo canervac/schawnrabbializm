@@ -6,7 +6,7 @@
 
 <h3>🔥 Havalı insanlar</h3>
 <img src="https://komarev.com/ghpvc/?username=schawnrabbializm&label=Ziyaretçi%20Sayısı&color=552b75" alt="schawnrabbializm" />
-<img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/This-null?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower"/></a>
+<img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/schawnrabbializm?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower"/></a>
 <h3>🌟 Sosyal medya</h3>
 
 [![Discord Badge](https://img.shields.io/badge/Discord%20-7289DA.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.com/users/585538770196103168)
