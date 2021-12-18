@@ -1,10 +1,27 @@
-<h2 align="center">schâwn kimdir? <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
+```js
+class Wency {
+  constructor(...options) {
+    this.height = "1.90"
+    this.weight = "98"
+    this.type = "human"
+    this.job = "student"
+    this.sex = "male"
+  }
+}
 
-
-- Ben Caner | schâwn diye tanıdığınız.
-- İnsanları sevmem sadece ihtiyacı oldukları zaman yanındadırlar.
-
-<h3>🔥 Havalı insanlar</h3>
+class CreateMan extends Wency {
+  constructor(...options) {
+    super(options);
+  }
+  
+  private _eating() {
+    void "eating 🍔 🍟 🍗 🥤"
+  }
+  
+  private _coding() {
+    void "coding... ❤️"
+  }
+  ```
 <img src="https://komarev.com/ghpvc/?username=schawnrabbializm&label=Ziyaretçi%20Sayısı&color=552b75" alt="schawnrabbializm" />
 <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/schawnrabbializm?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower"/></a>
 
