@@ -23,8 +23,6 @@
 ![Discord](https://discord.c99.nl/widget/theme-4/585538770196103168.png)
 
 <h3 align="left">🍒 GitHub Stats:</h3>
-<a href="https://github.com/schawnrabbializm/schawnrabbializm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schawnrabbializm&hide=c%2B%2B,c,html&title_color=d6826d&text_color=FF00FF&icon_color=6aa6f8&bg_color=0e1116" alt="schawnrabbializm GitHub Stats" />
-</a>
 <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=schawnrabbializm&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" />
+   <img src="https://github-readme-stats.vercel.app/api?username=This-null&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%150" height="150px" alt="stats" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=This-null&layout=compact&show_icons=true&theme=midnight-purple&hide_border=true"width="%100" height="150px" />
