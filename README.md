@@ -1,15 +1,15 @@
 ```js
-class Wency {
+class schawn {
   constructor(...options) {
-    this.height = "1.90"
-    this.weight = "98"
+    this.height = "1.82"
+    this.weight = "63"
     this.type = "human"
     this.job = "student"
     this.sex = "male"
   }
 }
 
-class CreateMan extends Wency {
+class CreateMan extends schawn {
   constructor(...options) {
     super(options);
   }
@@ -21,7 +21,22 @@ class CreateMan extends Wency {
   private _coding() {
     void "coding... ❤️"
   }
-  ```
+  
+  private _sleep(ms) { return new Promise(resolve => setTimeout(resolve, ms)) }
+  
+  async createDay() {
+    this._eating()
+    this._coding()
+    await this._sleep(18000000)
+    
+    this.createDay()
+  }
+  
+}
+
+let schawn = new CreateMan()
+schawn.createDay();
+```
 <img src="https://komarev.com/ghpvc/?username=schawnrabbializm&label=Ziyaretçi%20Sayısı&color=552b75" alt="schawnrabbializm" />
 <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/schawnrabbializm?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=follower"/></a>
 
