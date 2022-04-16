@@ -1,7 +1,7 @@
 # Hi there , I'm schâwn
 ![profile count](https://komarev.com/ghpvc/?username=schawnrabbializm&color=8b72ff)&nbsp;
 [![GitHub JaylenOzi](https://img.shields.io/github/followers/schawnrabbializm?label=follow&style=social)](https://github.com/schawnrabbializm)&nbsp;
-<a href="https://instagram.com/jaylen_ozi"><img src="https://img.shields.io/badge/@canervac-8b72ff?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/canervac"><img src="https://img.shields.io/badge/@canervac-8b72ff?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/585538770196103168?theme=light&bg=7ad3f5&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/585538770196103168)
 
