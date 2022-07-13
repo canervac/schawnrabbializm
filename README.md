@@ -1,5 +1,5 @@
 # Hi there , I'm schâwn
-![profile count](https://komarev.com/ghpvc/?username=schawnrabbializm&color=8b72ff)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=schawnrabbializm&color=809ecf)&nbsp;
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/585538770196103168?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/585538770196103168)
 
